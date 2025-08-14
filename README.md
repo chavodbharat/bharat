@@ -7,15 +7,13 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:chavodbharat@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://www.linkedin.com/in/bharat-chavod/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/your-github-username" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
 </p>
 
 # 🚀 Bharat Chavod — Full Stack Architect | Laravel, Vue.js, MERN, WordPress & AI Solutions
