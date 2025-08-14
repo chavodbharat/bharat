@@ -1,4 +1,23 @@
 # Hi, I'm Bharat Chavod 👋
+
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi%20👋,%20I'm%20Bharat%20Chavod&fontSize=35&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=51&descAlign=50"/>
+</p>
+
+<!-- Social Links -->
+<p align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/your-github-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 # 🚀 Bharat Chavod — Full Stack Architect | Laravel, Vue.js, MERN, WordPress & AI Solutions
 
 ## 👋 About Me
